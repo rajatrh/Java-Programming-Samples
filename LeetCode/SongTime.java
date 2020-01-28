@@ -1,5 +1,3 @@
-package amazon;
-
 import java.util.HashMap;
 
 public class SongTime {

@@ -1,5 +1,3 @@
-package celo;
-
 import java.util.Formatter;
 
 public class BLockChain {
